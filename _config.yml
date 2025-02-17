@@ -1,13 +1,13 @@
-title: How-to Guide
+title: Australian Computational Proteomics
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 #topnav_title: Website title
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
-description: "A bioinformatics focused How-to Guide"
+description: "Australian Computational Proteomics"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.5.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme
 
 theme_variables:
   # biocommons blue
